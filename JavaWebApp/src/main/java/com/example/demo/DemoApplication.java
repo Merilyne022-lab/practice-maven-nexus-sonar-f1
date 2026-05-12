@@ -12,4 +12,8 @@ public class DemoApplication {
 String name = "fonyuy";
 
 System.out.println(name);
+
+inter age = "20";
+System.out.println(age = 5);
+
 }
